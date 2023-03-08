@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Angular & .Net**
 
-- 👨‍💻 All of my projects are available at (https://mcmachete.vercel.app)
+- 👨‍💻 All of my projects are available at (https://mcmachete.netlify.app)
 
 - 💬 Ask me about **React, Angular & .Net**
 
