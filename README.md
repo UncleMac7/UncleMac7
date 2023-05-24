@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Modern Websites & Apps**
 
-- 🌱 I’m currently learning **React, Angular & .Net**
+- 🌱 I’m currently learning **React, Spring & .Net**
 
 - 👨‍💻 All of my projects are available at (https://mcmachete.netlify.app)
 
