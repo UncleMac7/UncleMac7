@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (https://mcmachete.vercel.app)
 
-- 💬 Ask me about **React, Angular & .Net**
+- 💬 Ask me about **React, Spring & .Net**
 
 - 📫 How to reach me **mduduzimachete@gmail.com**
 
